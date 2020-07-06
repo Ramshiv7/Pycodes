@@ -1,4 +1,4 @@
 import random
 
-coin=[Head, Tail]
+coin = ['Head', 'Tail']
 print(random.choice(coin))
